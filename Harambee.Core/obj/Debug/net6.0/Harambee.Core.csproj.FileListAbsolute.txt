@@ -1,0 +1,28 @@
+C:\Dev\Learn Practice\Harambee.Core\bin\Debug\net6.0\Harambee.Core.deps.json
+C:\Dev\Learn Practice\Harambee.Core\bin\Debug\net6.0\Harambee.Core.dll
+C:\Dev\Learn Practice\Harambee.Core\bin\Debug\net6.0\Harambee.Core.pdb
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\Harambee.Core.csproj.AssemblyReference.cache
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\Harambee.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\Harambee.Core.AssemblyInfoInputs.cache
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\Harambee.Core.AssemblyInfo.cs
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\Harambee.Core.csproj.CoreCompileInputs.cache
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\Harambee.Core.dll
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\refint\Harambee.Core.dll
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\Harambee.Core.pdb
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\ref\Harambee.Core.dll
+C:\Dev\Learn Practice\Harambee.Core\bin\Debug\net6.0\Harambee.Core.runtimeconfig.json
+C:\Dev\Learn Practice\Harambee.Core\obj\Debug\net6.0\Harambee.Core.genruntimeconfig.cache
+D:\Dev\e-commerce\Harambee.Core\bin\Debug\net6.0\Harambee.Core.deps.json
+D:\Dev\e-commerce\Harambee.Core\bin\Debug\net6.0\Harambee.Core.runtimeconfig.json
+D:\Dev\e-commerce\Harambee.Core\bin\Debug\net6.0\Harambee.Core.dll
+D:\Dev\e-commerce\Harambee.Core\bin\Debug\net6.0\Harambee.Core.pdb
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\Harambee.Core.csproj.AssemblyReference.cache
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\Harambee.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\Harambee.Core.AssemblyInfoInputs.cache
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\Harambee.Core.AssemblyInfo.cs
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\Harambee.Core.csproj.CoreCompileInputs.cache
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\Harambee.Core.dll
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\refint\Harambee.Core.dll
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\Harambee.Core.pdb
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\Harambee.Core.genruntimeconfig.cache
+D:\Dev\e-commerce\Harambee.Core\obj\Debug\net6.0\ref\Harambee.Core.dll

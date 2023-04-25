@@ -1,0 +1,170 @@
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\appsettings.json
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Shop.Web.staticwebassets.runtime.json
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Shop.Web.exe
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Shop.Web.deps.json
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Shop.Web.runtimeconfig.json
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Shop.Web.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Shop.Web.pdb
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.csproj.AssemblyReference.cache
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.AssemblyInfoInputs.cache
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.AssemblyInfo.cs
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.csproj.CoreCompileInputs.cache
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.RazorAssemblyInfo.cache
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.RazorAssemblyInfo.cs
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\staticwebassets\msbuild.Shop.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Shop.Web.props
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shop.Web.props
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shop.Web.props
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\scopedcss\bundle\Shop.Web.styles.css
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\scopedcss\projectbundle\Shop.Web.bundle.scp.css
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.dll
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\refint\Shop.Web.dll
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.pdb
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.genruntimeconfig.cache
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\ref\Shop.Web.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Harambee.Core.dll
+C:\Dev\Learn Practice\Shop.Web\bin\Debug\net6.0\Harambee.Core.pdb
+C:\Dev\Learn Practice\Shop.Web\obj\Debug\net6.0\Shop.Web.csproj.CopyComplete
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\appsettings.json
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Shop.Web.staticwebassets.runtime.json
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Shop.Web.exe
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Shop.Web.deps.json
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Shop.Web.runtimeconfig.json
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Shop.Web.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Shop.Web.pdb
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Azure.Core.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Azure.Identity.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Harambee.Core.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Harambee.Core.pdb
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.csproj.AssemblyReference.cache
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.AssemblyInfoInputs.cache
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.AssemblyInfo.cs
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.csproj.CoreCompileInputs.cache
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.RazorAssemblyInfo.cache
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.RazorAssemblyInfo.cs
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\staticwebassets\msbuild.Shop.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Shop.Web.props
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shop.Web.props
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shop.Web.props
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\scopedcss\bundle\Shop.Web.styles.css
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\scopedcss\projectbundle\Shop.Web.bundle.scp.css
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.csproj.CopyComplete
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.dll
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\refint\Shop.Web.dll
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.pdb
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\Shop.Web.genruntimeconfig.cache
+D:\Dev\e-commerce\Shop.Web\obj\Debug\net6.0\ref\Shop.Web.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Humanizer.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.CodeDom.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\System.Text.Json.dll
+D:\Dev\e-commerce\Shop.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

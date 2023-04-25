@@ -1,0 +1,15 @@
+C:\Dev\Learn Practice\Harambee.Data\bin\Debug\net6.0\Harambee.Data.deps.json
+C:\Dev\Learn Practice\Harambee.Data\bin\Debug\net6.0\Harambee.Data.dll
+C:\Dev\Learn Practice\Harambee.Data\bin\Debug\net6.0\Harambee.Data.pdb
+C:\Dev\Learn Practice\Harambee.Data\bin\Debug\net6.0\Harambee.Core.dll
+C:\Dev\Learn Practice\Harambee.Data\bin\Debug\net6.0\Harambee.Core.pdb
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\Harambee.Data.csproj.AssemblyReference.cache
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\Harambee.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\Harambee.Data.AssemblyInfoInputs.cache
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\Harambee.Data.AssemblyInfo.cs
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\Harambee.Data.csproj.CoreCompileInputs.cache
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\Harambee.Data.csproj.CopyComplete
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\Harambee.Data.dll
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\refint\Harambee.Data.dll
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\Harambee.Data.pdb
+C:\Dev\Learn Practice\Harambee.Data\obj\Debug\net6.0\ref\Harambee.Data.dll
