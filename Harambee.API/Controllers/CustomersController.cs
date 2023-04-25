@@ -35,22 +35,6 @@ namespace Harambee.API.Controllers
         }
 
 
-        ///// <summary>
-        ///// Save customer details in the system
-        ///// </summary>
-        ///// <param name="customer"></param>
-        ///// <returns></returns>
-        //[HttpPost]
-        //public async Task<ActionResult>AddCustomer(Customer customer)
-        //{
-        //    var saveResult = await _application.AddCustomer(customer);
-        //    if (saveResult.Item1 == false)
-        //    {
-        //        return BadRequest(saveResult.Item2);
-        //    }
-        //    return Ok(customer);
-        //}
-
 
         [HttpPost("{customerId}/add-to-cart")]
         public async Task<ActionResult> AddToCart(int customerId, [FromBody] int productId)
